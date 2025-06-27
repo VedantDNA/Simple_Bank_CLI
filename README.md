@@ -28,7 +28,7 @@ Make sure you have Java installed. Then:
 ```bash
 javac -d out src/com/vedantbank/*.java
 java -cp out com.vedantbank.BankApp
-
+```
 ---
 
 Feel free to customize and expand the project as you learn more!
