@@ -23,6 +23,12 @@ This project is a beginner-friendly CLI bank app where users can create an accou
 ## Usage
 Run the `BankApp` class and follow the on-screen prompts.
 
+Make sure you have Java installed. Then:
+
+```bash
+javac -d out src/com/vedantbank/*.java
+java -cp out com.vedantbank.BankApp
+
 ---
 
 Feel free to customize and expand the project as you learn more!
